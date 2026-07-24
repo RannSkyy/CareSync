@@ -1,0 +1,6 @@
+{
+  "name": "CareSync - Cohere Healthcare",
+  "description": "Comprehensive landing page for CareSync by Cohere healthcare dashboard with interactive features, velocity scroll, overlapping sections, and full mobile responsiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
